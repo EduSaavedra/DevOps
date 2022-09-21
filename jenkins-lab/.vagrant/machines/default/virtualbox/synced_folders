@@ -1,0 +1,1 @@
+{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"C:/Users/jedi/OneDrive/CURSOS/Devops-mao-na-massa/jenkins-lab","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}
